@@ -1,0 +1,57 @@
+body {background-color: #660066;
+	font-family: arial;
+
+}
+p { margin-left: 5px;
+	padding: 5px;
+	border: solid;
+	background-color: #ffcc00;
+}
+
+.whitep{
+	background-color: #fff;
+}
+
+img {
+	border: solid;
+
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+/* Navigation CSS*/
+
+nav{
+	background-color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+nav ul{
+	list-style: none;
+
+
+}
+nav ul li{
+	display: inline;
+	background-color: blue;
+	padding: 3px;
+
+}
+
+nav ul li a{
+
+	text-decoration: none;
+	color: black;
+
+}
+
+nav ul li a:hover{
+	color: red;
+	background-color: orange;
+	padding: 3px;
+
+
+}

@@ -1,0 +1,15 @@
+Add to the header area of your HTML Document page. 
+
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/lightbox-2.6.min.js"></script>
+<link href="css/lightbox.css" rel="stylesheet"/>
+
+___________________________________________________________________________
+Add to the content area of your HTML Document page. 
+
+<center>
+<a href="img/image-1.jpg" data-lightbox="roadtrip"><img src="img/image-1.jpg" width="150" height="150" alt="thumb 1" /></a>
+<a href="img/image-2.jpg" data-lightbox="roadtrip"><img src="img/image-2.jpg" width="150" height="150" alt="thumb 2" /></a>
+<a href="img/image-3.jpg" data-lightbox="roadtrip"><img src="img/image-3.jpg" width="150" height="150" alt="thumb 3" /></a>
+<a href="img/image-4.jpg" data-lightbox="roadtrip"><img src="img/image-4.jpg" width="150" height="150" alt="thumb 4" /></a>
+</center>
